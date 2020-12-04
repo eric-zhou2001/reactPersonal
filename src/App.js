@@ -1,12 +1,12 @@
-import React from 'react';
-import Home from './components/Home';
+import React, {Component} from 'react';
+import Searchbar from "./components/Searchbar";
 
-function App() {
-  return (
-    <div>
-      <Home />
-    </div>
-  );
+class App extends React.Component {
+  render = () => {
+    return (
+      <Searchbar dropdown={false} />
+    )
+  }
 }
 
 export default App;

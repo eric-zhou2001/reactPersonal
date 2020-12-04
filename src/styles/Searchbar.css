@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+
+#searchBar {
+    font-family: 'Open Sans';
+    border: solid;
+    border-width: .5px;
+    width: 250px;
+    height: 25px;
+    position: relative;
+}
+
+.greyBackground {
+    position: absolute;
+    right:-1px;
+    top:-1px;
+    width:25px;
+    height:25.5px;
+    background-color:#DCDCDC;
+    border:solid;
+    border-width: .25px;
+}
+
+.searchIcon {
+    position: absolute;
+    top: 5px;
+    right: 3.5px;
+}
+
+.searchBarContainer {
+    padding-top: 30px;
+}
