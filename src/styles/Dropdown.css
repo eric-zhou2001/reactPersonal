@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+
+#dropdownContainer {
+    position:absolute;
+    display:none;
+    top:64px;
+    border: solid;
+    font-family: 'Open Sans';
+    border-width: .5px;
+    width: 250px;
+    font-size: 20px;
+}
+
+.dropdownItem {
+    font-family: 'Open Sans';
+    padding-left: 2px;
+    transition: background .2s ease-in;
+}
+
+.dropdownItem:hover {
+    transition: background .5s ease-in;
+    cursor: pointer;
+}
+
+.dropdownItem:nth-child(1):hover {
+    background-color:#ffcccc;
+}
+
+.dropdownItem:nth-child(2):hover {
+    background-color:#ccffdd;
+}
+
+.dropdownItem:nth-child(3):hover {
+    background-color: #ccccff;
+}

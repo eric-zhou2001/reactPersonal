@@ -7,6 +7,11 @@
     width: 250px;
     height: 25px;
     position: relative;
+    transition: background .2s ease-in;
+}
+
+#displayText {
+    padding-left: 2px;
 }
 
 .greyBackground {
@@ -28,4 +33,10 @@
 
 .searchBarContainer {
     padding-top: 30px;
+}
+
+#searchBar:hover {
+    transition: background .5s ease-in;
+    background-color:#F8F8F8;
+    cursor: pointer;
 }
