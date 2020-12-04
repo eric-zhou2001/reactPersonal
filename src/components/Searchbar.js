@@ -3,6 +3,8 @@ import "../styles/Searchbar.css";
 import "../styles/App.css";
 import Dropdown from "./Dropdown";
 import { BiSearchAlt } from 'react-icons/bi';
+import Typist from 'react-typist';
+import { getByText } from '@testing-library/react';
 
 class Searchbar extends React.Component {
     constructor(props) {
@@ -30,6 +32,10 @@ class Searchbar extends React.Component {
         }
     }
 
+    getText = () => {
+        return document.getElementById("displayText").innerText;
+    }
+
     render = () => {
         return (
             <div className="centerContainer searchBarContainer">
@@ -37,6 +43,7 @@ class Searchbar extends React.Component {
                     id={"searchBar"}
                     onClick={this.displayHideDropdown}
                 >
+                    <Typist>{this.getText}</Typist>
                     <div id="displayText"></div>
                     <div onClick={this.handleSearch} className="greyBackground">
                         <BiSearchAlt className="searchIcon" />
