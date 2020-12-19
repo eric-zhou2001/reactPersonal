@@ -1,23 +1,31 @@
 {
   "files": {
-    "main.css": "/reactPersonal/static/css/main.8c286648.chunk.css",
-    "main.js": "/reactPersonal/static/js/main.82bf3b0d.chunk.js",
-    "main.js.map": "/reactPersonal/static/js/main.82bf3b0d.chunk.js.map",
+    "main.css": "/reactPersonal/static/css/main.5ae96166.chunk.css",
+    "main.js": "/reactPersonal/static/js/main.b4a41f46.chunk.js",
+    "main.js.map": "/reactPersonal/static/js/main.b4a41f46.chunk.js.map",
     "runtime-main.js": "/reactPersonal/static/js/runtime-main.9f03e805.js",
     "runtime-main.js.map": "/reactPersonal/static/js/runtime-main.9f03e805.js.map",
-    "static/js/2.8a58be78.chunk.js": "/reactPersonal/static/js/2.8a58be78.chunk.js",
-    "static/js/2.8a58be78.chunk.js.map": "/reactPersonal/static/js/2.8a58be78.chunk.js.map",
+    "static/js/2.265ad094.chunk.js": "/reactPersonal/static/js/2.265ad094.chunk.js",
+    "static/js/2.265ad094.chunk.js.map": "/reactPersonal/static/js/2.265ad094.chunk.js.map",
     "index.html": "/reactPersonal/index.html",
-    "precache-manifest.f4005bdebd3c17c3677daab389a2a25d.js": "/reactPersonal/precache-manifest.f4005bdebd3c17c3677daab389a2a25d.js",
+    "precache-manifest.19a4296a379ccb624ec0b01e9f3ea6c4.js": "/reactPersonal/precache-manifest.19a4296a379ccb624ec0b01e9f3ea6c4.js",
     "service-worker.js": "/reactPersonal/service-worker.js",
-    "static/css/main.8c286648.chunk.css.map": "/reactPersonal/static/css/main.8c286648.chunk.css.map",
-    "static/js/2.8a58be78.chunk.js.LICENSE.txt": "/reactPersonal/static/js/2.8a58be78.chunk.js.LICENSE.txt",
-    "static/media/profile.jpg": "/reactPersonal/static/media/profile.ed2d9ec1.jpg"
+    "static/css/main.5ae96166.chunk.css.map": "/reactPersonal/static/css/main.5ae96166.chunk.css.map",
+    "static/js/2.265ad094.chunk.js.LICENSE.txt": "/reactPersonal/static/js/2.265ad094.chunk.js.LICENSE.txt",
+    "static/media/aasu.jpg": "/reactPersonal/static/media/aasu.86918c06.jpg",
+    "static/media/augustjonahemma.jpg": "/reactPersonal/static/media/augustjonahemma.7c2dd3a8.jpg",
+    "static/media/madison.jpg": "/reactPersonal/static/media/madison.2f763d00.jpg",
+    "static/media/olive.png": "/reactPersonal/static/media/olive.19357e61.png",
+    "static/media/owen.jpg": "/reactPersonal/static/media/owen.620a203d.jpg",
+    "static/media/profile.jpg": "/reactPersonal/static/media/profile.ed2d9ec1.jpg",
+    "static/media/sofachilling.jpg": "/reactPersonal/static/media/sofachilling.3aed6f70.jpg",
+    "static/media/solo.png": "/reactPersonal/static/media/solo.630e8eb9.png",
+    "static/media/studydog.jpg": "/reactPersonal/static/media/studydog.88a11f5e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.9f03e805.js",
-    "static/js/2.8a58be78.chunk.js",
-    "static/css/main.8c286648.chunk.css",
-    "static/js/main.82bf3b0d.chunk.js"
+    "static/js/2.265ad094.chunk.js",
+    "static/css/main.5ae96166.chunk.css",
+    "static/js/main.b4a41f46.chunk.js"
   ]
 }
