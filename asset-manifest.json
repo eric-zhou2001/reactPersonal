@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactPersonal/static/css/main.8c286648.chunk.css",
+    "main.js": "/reactPersonal/static/js/main.82bf3b0d.chunk.js",
+    "main.js.map": "/reactPersonal/static/js/main.82bf3b0d.chunk.js.map",
+    "runtime-main.js": "/reactPersonal/static/js/runtime-main.9f03e805.js",
+    "runtime-main.js.map": "/reactPersonal/static/js/runtime-main.9f03e805.js.map",
+    "static/js/2.8a58be78.chunk.js": "/reactPersonal/static/js/2.8a58be78.chunk.js",
+    "static/js/2.8a58be78.chunk.js.map": "/reactPersonal/static/js/2.8a58be78.chunk.js.map",
+    "index.html": "/reactPersonal/index.html",
+    "precache-manifest.f4005bdebd3c17c3677daab389a2a25d.js": "/reactPersonal/precache-manifest.f4005bdebd3c17c3677daab389a2a25d.js",
+    "service-worker.js": "/reactPersonal/service-worker.js",
+    "static/css/main.8c286648.chunk.css.map": "/reactPersonal/static/css/main.8c286648.chunk.css.map",
+    "static/js/2.8a58be78.chunk.js.LICENSE.txt": "/reactPersonal/static/js/2.8a58be78.chunk.js.LICENSE.txt",
+    "static/media/profile.jpg": "/reactPersonal/static/media/profile.ed2d9ec1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f03e805.js",
+    "static/js/2.8a58be78.chunk.js",
+    "static/css/main.8c286648.chunk.css",
+    "static/js/main.82bf3b0d.chunk.js"
+  ]
+}
