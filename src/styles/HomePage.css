@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+
+.homePageBackground {
+    background-color: #ffcccc;
+    font-family: 'Open Sans';
+}
+
+.information {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.subtextProfile {
+    font-size: 8px;
+    margin-left: 25%;
+}
+
+#profile {
+    margin-top:10px;
+    border-radius: 25px;
+    margin-left: 25%;
+    width: 250px;
+}

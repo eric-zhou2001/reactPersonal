@@ -2,3 +2,9 @@
     display:flex;
     justify-content: center;
 }
+
+.pageContainer {
+    position:absolute;
+    top:170px;
+    width: 500px;;
+}
