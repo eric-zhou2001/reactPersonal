@@ -1,23 +1,55 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
 
 .homePageBackground {
     background-color: #ffcccc;
     font-family: 'Open Sans';
+    height: 1600px;
 }
 
+/**
+Default styling for information 
+*/
 .information {
-    margin-left: 10px;
     margin-right: 10px;
+    margin-left: 10px;
+}
+
+h1 {
+    font-family: "Bebas Neue";
+    font-size: 50px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+}
+
+#intro {
+    margin-left: 420px;
+    font-size: 20px;
 }
 
 .subtextProfile {
-    font-size: 8px;
-    margin-left: 25%;
+    font-size:10px;
+    margin-left: 50px;
+    display: block;
+    margin-top: -30px;
 }
 
 #profile {
-    margin-top:10px;
     border-radius: 25px;
-    margin-left: 25%;
-    width: 250px;
+    margin-left: 20px;
+    width: 380px;
+    float: left;
+}
+
+.gridHomepage {
+    margin-left: 10px;
+    margin-right: 10px;
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-gap: 20px;
+    justify-content: center;
+}
+
+.gridPhoto {
+    width: 200px;
 }
