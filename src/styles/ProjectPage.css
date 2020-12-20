@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+
+#projectPageContainerBackground {
+    background-color:#ccffdd;
+    height: 1000px;
+}
+
+.projectHeader {
+    font-family: "Bebas Neue";
+    margin-left: 20px;
+}
+
+.projGridItemInfo {
+    margin-left: 20px;
+    margin-right: 20px;
+    display: grid;
+    grid-template-columns: 200px 500px;
+    column-gap: 20px;
+}
+
+.projItem {
+    width: 200px;
+    margin-left: 10px;
+}
+
+.projInfo {
+    font-size: 15px;
+    font-family: "Open Sans";
+    margin-left: 10px;
+}
+
+.projGridInfoItem {
+    margin-left: 20px;
+    margin-right: 20px;
+    display: grid;
+    grid-template-columns: 500px 200px;
+    column-gap: 20px;
+}

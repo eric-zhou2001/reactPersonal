@@ -1,6 +1,8 @@
 import React, {Component} from 'react';
 import "../styles/App.css";
 import HomePage from "./HomePage"
+import ProjectPage from "./ProjectPage";
+import ContactPage from "./ContactPage";
 
 class PageTab extends Component {
     constructor(props) {
@@ -25,9 +27,9 @@ class PageTab extends Component {
         } else if (this.state.page === "personal") {
             return <HomePage />;
         } else if (this.state.page === "projects") {
-            // return <ProjectPage />;
+            return <ProjectPage />;
         } else {
-            // return <ContactPage />;
+            return <ContactPage />;
         }
     }
 }

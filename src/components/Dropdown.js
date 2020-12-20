@@ -27,14 +27,16 @@ class Dropdown extends React.Component {
     render = () => {
         return(
             <div id="dropdownContainer">
-                <div onClick={this.displayPersonal} className="dropdownItem">
-                    Who is Eric Zhou?
-                </div>
-                <div onClick={this.displayProjects} className="dropdownItem">
-                    What are his projects?
-                </div>
-                <div onClick={this.displayContact} className="dropdownItem">
-                    Contact Information?
+                <div id="itemContainer">
+                    <div onClick={this.displayPersonal} className="dropdownItem">
+                        Who is Eric Zhou?
+                    </div>
+                    <div onClick={this.displayProjects} className="dropdownItem">
+                        What are his projects?
+                    </div>
+                    <div onClick={this.displayContact} className="dropdownItem">
+                        Contact Information?
+                    </div>
                 </div>
             </div>
         );
