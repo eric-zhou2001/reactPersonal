@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/reactPersonal/static/css/main.5ae96166.chunk.css",
-    "main.js": "/reactPersonal/static/js/main.b4a41f46.chunk.js",
-    "main.js.map": "/reactPersonal/static/js/main.b4a41f46.chunk.js.map",
+    "main.css": "/reactPersonal/static/css/main.0d501793.chunk.css",
+    "main.js": "/reactPersonal/static/js/main.b24a319f.chunk.js",
+    "main.js.map": "/reactPersonal/static/js/main.b24a319f.chunk.js.map",
     "runtime-main.js": "/reactPersonal/static/js/runtime-main.9f03e805.js",
     "runtime-main.js.map": "/reactPersonal/static/js/runtime-main.9f03e805.js.map",
-    "static/js/2.265ad094.chunk.js": "/reactPersonal/static/js/2.265ad094.chunk.js",
-    "static/js/2.265ad094.chunk.js.map": "/reactPersonal/static/js/2.265ad094.chunk.js.map",
+    "static/js/2.bae0b8ad.chunk.js": "/reactPersonal/static/js/2.bae0b8ad.chunk.js",
+    "static/js/2.bae0b8ad.chunk.js.map": "/reactPersonal/static/js/2.bae0b8ad.chunk.js.map",
     "index.html": "/reactPersonal/index.html",
-    "precache-manifest.19a4296a379ccb624ec0b01e9f3ea6c4.js": "/reactPersonal/precache-manifest.19a4296a379ccb624ec0b01e9f3ea6c4.js",
+    "precache-manifest.d02456464a1a13d00fa99c699cedd6eb.js": "/reactPersonal/precache-manifest.d02456464a1a13d00fa99c699cedd6eb.js",
     "service-worker.js": "/reactPersonal/service-worker.js",
-    "static/css/main.5ae96166.chunk.css.map": "/reactPersonal/static/css/main.5ae96166.chunk.css.map",
-    "static/js/2.265ad094.chunk.js.LICENSE.txt": "/reactPersonal/static/js/2.265ad094.chunk.js.LICENSE.txt",
+    "static/css/main.0d501793.chunk.css.map": "/reactPersonal/static/css/main.0d501793.chunk.css.map",
+    "static/js/2.bae0b8ad.chunk.js.LICENSE.txt": "/reactPersonal/static/js/2.bae0b8ad.chunk.js.LICENSE.txt",
+    "static/media/Pytutor.svg": "/reactPersonal/static/media/Pytutor.39fd4b33.svg",
     "static/media/aasu.jpg": "/reactPersonal/static/media/aasu.86918c06.jpg",
     "static/media/augustjonahemma.jpg": "/reactPersonal/static/media/augustjonahemma.7c2dd3a8.jpg",
     "static/media/madison.jpg": "/reactPersonal/static/media/madison.2f763d00.jpg",
@@ -24,8 +25,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9f03e805.js",
-    "static/js/2.265ad094.chunk.js",
-    "static/css/main.5ae96166.chunk.css",
-    "static/js/main.b4a41f46.chunk.js"
+    "static/js/2.bae0b8ad.chunk.js",
+    "static/css/main.0d501793.chunk.css",
+    "static/js/main.b24a319f.chunk.js"
   ]
 }
