@@ -9,7 +9,7 @@ class Searchbar extends React.Component {
     constructor(props) {
         super();
         this.state = {
-            page: "none",
+            page: "personal",
         }
     }
 
@@ -33,10 +33,12 @@ class Searchbar extends React.Component {
             this.setState({
                 page: "projects"
             });
-        } else {
+        } else if (query === "Contact Information?") {
             this.setState({
                 page: "contacts"
             });
+        } else {
+            this.setState(this.state);
         }
     }
 
@@ -52,7 +54,7 @@ class Searchbar extends React.Component {
                         <BiSearchAlt className="searchIcon" />
                     </div>
                 </div>
-                <Dropdown />
+                <Dropdown handleSearch={this.handleSearch}/>
                 <PageTab page={this.state.page} />
             </div>
         )

@@ -1,0 +1,13 @@
+.gridHomepageDogs {
+    margin-left: 10px;
+    margin-right: 10px;
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-gap: 20px;
+    justify-content: center;
+}
+
+.gridPhotoDog {
+    border-radius: 25px;
+    width: 200px;
+}

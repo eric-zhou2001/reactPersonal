@@ -1,10 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400&display=swap");
 
 .homePageBackground {
     background-color: #ffcccc;
     font-family: 'Open Sans';
-    height: 1600px;
+    height:1700px;
 }
 
 /**
@@ -16,7 +16,7 @@ Default styling for information
 }
 
 h1 {
-    font-family: "Bebas Neue";
+    font-family: "Quicksand";
     font-size: 50px;
     margin-bottom: 10px;
     padding-left: 20px;
@@ -41,7 +41,15 @@ h1 {
     float: left;
 }
 
-.gridHomepage {
+.gridHomepage2 {
+    margin-left: 10px;
+    margin-right: 10px;
+    display: grid;
+    grid-template-columns: 200px 200px;
+    justify-content: center;
+}
+
+.gridHomepage1 {
     margin-left: 10px;
     margin-right: 10px;
     display: grid;
@@ -51,5 +59,17 @@ h1 {
 }
 
 .gridPhoto {
+    border-radius: 25px;
     width: 200px;
+}
+
+.gridPhotoLayer {
+    width: 200px;
+    border-radius: 25px;
+}
+
+.gridHomepage2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    grid-gap: 10px;
 }

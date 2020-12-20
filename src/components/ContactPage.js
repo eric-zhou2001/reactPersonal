@@ -24,7 +24,7 @@ export default class ContactPage extends Component {
                 <h1>Résumé</h1>
                 <div className="résumé centerContainer">
                     <AiOutlineFilePdf size={70} />
-                    <a href="../resources/Resume_CV Web - Eric Zhou.pdf"><p className="contactInfo">Résumé</p></a>
+                    <a href="../pages/Resume_CV Web - Eric Zhou.pdf"><p className="contactInfo">Résumé</p></a>
                 </div>
             </div>
         )

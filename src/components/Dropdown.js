@@ -12,16 +12,19 @@ class Dropdown extends React.Component {
     displayPersonal = () => {
         var displayText = document.getElementById("displayText");
         displayText.innerText = "Who is Eric Zhou?";
+        this.props.handleSearch();
     }
 
     displayProjects = () => {
         var displayText = document.getElementById("displayText");
         displayText.innerText = "What are his projects?";
+        this.props.handleSearch();
     }
 
     displayContact = () => {
         var displayText = document.getElementById("displayText");
         displayText.innerText = "Contact Information?";
+        this.props.handleSearch();
     }
 
     render = () => {
