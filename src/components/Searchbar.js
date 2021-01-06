@@ -49,7 +49,7 @@ class Searchbar extends React.Component {
                     id={"searchBar"}
                     onClick={this.displayHideDropdown}
                 >
-                    <div id="displayText"></div>
+                    <div id="displayText">Click on me...</div>
                     <div onClick={this.handleSearch} className="greyBackground">
                         <BiSearchAlt className="searchIcon" />
                     </div>
