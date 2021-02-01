@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/reactPersonal/static/css/main.32857fca.chunk.css",
-    "main.js": "/reactPersonal/static/js/main.1a5e67f5.chunk.js",
-    "main.js.map": "/reactPersonal/static/js/main.1a5e67f5.chunk.js.map",
+    "main.css": "/reactPersonal/static/css/main.cff9e4b5.chunk.css",
+    "main.js": "/reactPersonal/static/js/main.cc90dd7c.chunk.js",
+    "main.js.map": "/reactPersonal/static/js/main.cc90dd7c.chunk.js.map",
     "runtime-main.js": "/reactPersonal/static/js/runtime-main.9f03e805.js",
     "runtime-main.js.map": "/reactPersonal/static/js/runtime-main.9f03e805.js.map",
-    "static/js/2.521dfda3.chunk.js": "/reactPersonal/static/js/2.521dfda3.chunk.js",
-    "static/js/2.521dfda3.chunk.js.map": "/reactPersonal/static/js/2.521dfda3.chunk.js.map",
+    "static/js/2.8c353c6b.chunk.js": "/reactPersonal/static/js/2.8c353c6b.chunk.js",
+    "static/js/2.8c353c6b.chunk.js.map": "/reactPersonal/static/js/2.8c353c6b.chunk.js.map",
     "index.html": "/reactPersonal/index.html",
-    "precache-manifest.045acac06a967fb42f69f0edc78ed24c.js": "/reactPersonal/precache-manifest.045acac06a967fb42f69f0edc78ed24c.js",
+    "precache-manifest.3b42a4ffa9bd38c7eeb4546cb0a4139d.js": "/reactPersonal/precache-manifest.3b42a4ffa9bd38c7eeb4546cb0a4139d.js",
     "service-worker.js": "/reactPersonal/service-worker.js",
-    "static/css/main.32857fca.chunk.css.map": "/reactPersonal/static/css/main.32857fca.chunk.css.map",
-    "static/js/2.521dfda3.chunk.js.LICENSE.txt": "/reactPersonal/static/js/2.521dfda3.chunk.js.LICENSE.txt",
+    "static/css/main.cff9e4b5.chunk.css.map": "/reactPersonal/static/css/main.cff9e4b5.chunk.css.map",
+    "static/js/2.8c353c6b.chunk.js.LICENSE.txt": "/reactPersonal/static/js/2.8c353c6b.chunk.js.LICENSE.txt",
     "static/media/Dogs-01.jpg": "/reactPersonal/static/media/Dogs-01.3d2c3e33.jpg",
     "static/media/Dogs-02.jpg": "/reactPersonal/static/media/Dogs-02.d8ad0fe5.jpg",
     "static/media/Dogs-03.jpg": "/reactPersonal/static/media/Dogs-03.30f32d93.jpg",
@@ -35,13 +35,14 @@
     "static/media/Dogs-21.jpg": "/reactPersonal/static/media/Dogs-21.9e488cb2.jpg",
     "static/media/Dogs-22.jpg": "/reactPersonal/static/media/Dogs-22.98a64799.jpg",
     "static/media/Dogs-23.jpg": "/reactPersonal/static/media/Dogs-23.f61bb0ba.jpg",
-    "static/media/Pytutor.svg": "/reactPersonal/static/media/Pytutor.fc47c108.svg",
+    "static/media/Pytutor.svg": "/reactPersonal/static/media/Pytutor.39fd4b33.svg",
     "static/media/aasu.jpg": "/reactPersonal/static/media/aasu.a7e79dea.jpg",
     "static/media/augustjonahemma.jpg": "/reactPersonal/static/media/augustjonahemma.545af7b7.jpg",
     "static/media/madison.jpg": "/reactPersonal/static/media/madison.7f12fb54.jpg",
     "static/media/olive.png": "/reactPersonal/static/media/olive.64dfde93.png",
     "static/media/owen.jpg": "/reactPersonal/static/media/owen.c7edd5d6.jpg",
     "static/media/profile.jpg": "/reactPersonal/static/media/profile.b321ef24.jpg",
+    "static/media/psScript.jpg": "/reactPersonal/static/media/psScript.5f5a4f67.jpg",
     "static/media/sofachilling.jpg": "/reactPersonal/static/media/sofachilling.db502eaf.jpg",
     "static/media/solo.png": "/reactPersonal/static/media/solo.f59e628e.png",
     "static/media/stlouis.jpg": "/reactPersonal/static/media/stlouis.7ef9c4ce.jpg",
@@ -49,8 +50,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9f03e805.js",
-    "static/js/2.521dfda3.chunk.js",
-    "static/css/main.32857fca.chunk.css",
-    "static/js/main.1a5e67f5.chunk.js"
+    "static/js/2.8c353c6b.chunk.js",
+    "static/css/main.cff9e4b5.chunk.css",
+    "static/js/main.cc90dd7c.chunk.js"
   ]
 }
